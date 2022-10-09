@@ -12,7 +12,7 @@ export default function Index() {
         />
       </div>
       <div className="flex items-center justify-center">
-        <h1 className="font-semibold text-3xl md:text-6xl text-gray-600">
+        <h1 className="font-semibold text-3xl md:text-6xl text-gray-600 drop-shadow-lg">
           COMING SOON
         </h1>
       </div>
